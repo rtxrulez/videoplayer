@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cbc8696-43bd-4811-85d5-0b522d096f5b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/media_query.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/templates/videoplay/videoplay.jade" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/hits9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/list9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/thumb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/thumb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/thumb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/thumb4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/valentines-heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/advert/advert.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/menu/menu.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/partials/footer.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/partials/head.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/partials/header.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/thumb/thumb.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/templates/thumblist/thumblist.jade" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/hits9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/list9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/thumb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/thumb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/thumb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/thumb4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/img/valentines-heart.svg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/sprite/gift.png" afterPath="$PROJECT_DIR$/build/img/sprite/gift.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/sprite/list.png" afterPath="$PROJECT_DIR$/build/img/sprite/list.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/sprite/package.png" afterPath="$PROJECT_DIR$/build/img/sprite/package.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/sprite/table.png" afterPath="$PROJECT_DIR$/build/img/sprite/table.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/sprite/videogray.png" afterPath="$PROJECT_DIR$/build/img/sprite/videogray.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/app.scss" afterPath="$PROJECT_DIR$/assets/scss/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/main.scss" afterPath="$PROJECT_DIR$/assets/scss/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/mixins.scss" afterPath="$PROJECT_DIR$/assets/scss/mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/sprite.scss" afterPath="$PROJECT_DIR$/assets/scss/sprite.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/var.scss" afterPath="$PROJECT_DIR$/assets/scss/var.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/templates/data/data.json" afterPath="$PROJECT_DIR$/assets/templates/data/data.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/templates/index.jade" afterPath="$PROJECT_DIR$/assets/templates/index.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/app.js" afterPath="$PROJECT_DIR$/build/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hello.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,7 +27,7 @@
           <file leaf-file-name="index.jade" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/templates/index.jade">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-154">
+                <state relative-caret-position="22">
                   <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
                   <folding />
                 </state>
@@ -115,7 +37,7 @@
           <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/templates/data/data.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="379">
+                <state relative-caret-position="484">
                   <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
                   <folding />
                 </state>
@@ -135,7 +57,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
           <file leaf-file-name="var.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/scss/var.scss">
               <provider selected="true" editor-type-id="text-editor">
@@ -169,7 +91,7 @@
           <file leaf-file-name="media_query.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/scss/media_query.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="719">
+                <state relative-caret-position="968">
                   <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
                   <folding />
                 </state>
@@ -186,7 +108,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="bower.json" pinned="false" current-in-tab="true">
+          <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bower.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="220">
@@ -196,10 +118,20 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="44">
+                  <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="mixins.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/scss/mixins.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="440">
+                <state relative-caret-position="1672">
                   <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
                   <folding />
                 </state>
@@ -239,6 +171,7 @@
         <option value="$PROJECT_DIR$/assets/scss/media_query.scss" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -281,135 +214,27 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
+              <option name="myItemId" value="videoplayer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
+              <option name="myItemId" value="videoplayer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="videoplay" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
+              <option name="myItemId" value="videoplayer" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -435,6 +260,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -471,11 +302,20 @@
       <workItem from="1470060836825" duration="55000" />
       <workItem from="1470060904617" duration="594000" />
       <workItem from="1470061666820" duration="26578000" />
+      <workItem from="1470136387917" duration="756000" />
     </task>
+    <task id="LOCAL-00001" summary="idea">
+      <created>1470137118604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470137118604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27227000" />
+    <option name="totallyTimeSpent" value="27983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -501,6 +341,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -514,33 +358,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/var.scss">
+    <entry file="file://$PROJECT_DIR$/assets/templates/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/templates/thumb/thumb.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="22">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/templates/data/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
+        <state relative-caret-position="484">
           <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding />
         </state>
@@ -554,10 +382,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/templates/index.jade">
+    <entry file="file://$PROJECT_DIR$/assets/scss/var.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="110">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -580,7 +408,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/media_query.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
+        <state relative-caret-position="968">
           <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
           <folding />
         </state>
@@ -598,6 +426,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/templates/thumb/thumb.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
