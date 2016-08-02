@@ -29,7 +29,7 @@ gulp.task('sass', function () {
   ];
   return gulp.src('./assets/scss/**/app.scss')
     .pipe(sass().on('error', sass.logError))
-    // .pipe(postcss(processors))
+    .pipe(postcss(processors))
     .pipe(gulp.dest('./build/css'))
     .pipe(browserSync.stream()); // перезагрузка сервера
 });
