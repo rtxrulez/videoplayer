@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8cbc8696-43bd-4811-85d5-0b522d096f5b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/scss/main.scss" afterPath="$PROJECT_DIR$/assets/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/app.css" afterPath="$PROJECT_DIR$/build/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/app.js" afterPath="$PROJECT_DIR$/build/js/app.js" />
     </list>
     <ignored path="hello.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,8 +104,8 @@
           <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/assets/scss/main.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="226">
-                  <caret line="302" column="22" selection-start-line="302" selection-start-column="22" selection-end-line="302" selection-end-column="22" />
+                <state relative-caret-position="414">
+                  <caret line="56" column="60" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
                   <folding />
                 </state>
               </provider>
@@ -403,7 +406,7 @@
       <workItem from="1470060904617" duration="594000" />
       <workItem from="1470061666820" duration="26578000" />
       <workItem from="1470136387917" duration="756000" />
-      <workItem from="1470138269843" duration="1925000" />
+      <workItem from="1470138269843" duration="2302000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1470137118604</created>
@@ -468,11 +471,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470140209111</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="скомпилировал">
+      <created>1470140271177</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1470140271177</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29908000" />
+    <option name="totallyTimeSpent" value="30285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -505,7 +515,8 @@
     <MESSAGE value="все пути относительные" />
     <MESSAGE value="все пути в html файле" />
     <MESSAGE value="поправил пути" />
-    <option name="LAST_COMMIT_MESSAGE" value="поправил пути" />
+    <MESSAGE value="скомпилировал" />
+    <option name="LAST_COMMIT_MESSAGE" value="скомпилировал" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -766,8 +777,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="302" column="22" selection-start-line="302" selection-start-column="22" selection-end-line="302" selection-end-column="22" />
+        <state relative-caret-position="414">
+          <caret line="56" column="60" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
           <folding />
         </state>
       </provider>
