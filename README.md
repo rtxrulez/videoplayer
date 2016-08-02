@@ -1,4 +1,4 @@
-# Beeline.hello
+# Videoplayer
 ### Установка nodejs модулей: ###
 `npm i`
 
