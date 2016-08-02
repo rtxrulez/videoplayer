@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cbc8696-43bd-4811-85d5-0b522d096f5b" name="Default" comment="все пути в html файле">
+    <list default="true" id="8cbc8696-43bd-4811-85d5-0b522d096f5b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/templates/data/data.json" afterPath="$PROJECT_DIR$/assets/templates/data/data.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/templates/index.jade" afterPath="$PROJECT_DIR$/assets/templates/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/app.js" afterPath="$PROJECT_DIR$/build/js/app.js" />
     </list>
     <ignored path="hello.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -384,7 +383,7 @@
       <workItem from="1470060904617" duration="594000" />
       <workItem from="1470061666820" duration="26578000" />
       <workItem from="1470136387917" duration="756000" />
-      <workItem from="1470138269843" duration="1378000" />
+      <workItem from="1470138269843" duration="1650000" />
     </task>
     <task id="LOCAL-00001" summary="idea">
       <created>1470137118604</created>
@@ -421,11 +420,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470139561600</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="все пути в html файле">
+      <created>1470139681641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1470139681642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29361000" />
+    <option name="totallyTimeSpent" value="29633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -456,7 +462,8 @@
     <MESSAGE value="Лишнее&#10;" />
     <MESSAGE value="пути" />
     <MESSAGE value="все пути относительные" />
-    <option name="LAST_COMMIT_MESSAGE" value="все пути относительные" />
+    <MESSAGE value="все пути в html файле" />
+    <option name="LAST_COMMIT_MESSAGE" value="все пути в html файле" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
