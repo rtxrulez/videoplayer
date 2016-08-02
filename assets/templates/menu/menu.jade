@@ -1,0 +1,13 @@
+mixin menu()
+  ul.menu
+    each item in menu
+      li.menu__item.havesubmenu
+        a.menu__link(href="item.href")= item.title
+        if item.submenu
+          ul.submenu
+            each item2 in item.submenu
+              li.submenu__item
+                if item2.title == 'hr'
+                  hr
+                else
+                  a.submenu__link(href="item2.href")= item2.title

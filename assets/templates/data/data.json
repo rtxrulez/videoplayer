@@ -1,0 +1,292 @@
+{
+  "videoplaylist": [
+    {
+      "name": "Олег Фея — Все, что тебя касается",
+      "url": "#",
+      "img": "videoplay.jpg",
+      "views": "286 просмотров",
+      "time": "35:49"
+    },
+    {
+      "name": "Бобрёнок моется",
+      "url": "#",
+      "img": "videoplay1.jpg",
+      "views": "77 000 просмотров",
+      "time": "0.21"
+    },
+    {
+      "name": "SpaceX - Наша Судьба — Стремиться Ввысь !",
+      "url": "https://new.vk.com/video?z=video-51873373_171567799%2Fpl_cat_updates",
+      "img": "videoplay2.jpg",
+      "views": "286 просмотров",
+      "time": "2:49",
+      "active": true
+    },
+    {
+      "name": "Илон Маск смешные момнты ч2 (На русском)",
+      "url": "https://new.vk.com/video?z=video-51873373_456239126%2Fpl_cat_updates",
+      "img": "videoplay3.jpg",
+      "views": "2860 просмотров",
+      "time": "7:08"
+    }
+  ],
+  "othervideolist": [
+    {
+      "name": "Олег Фея — Все, что тебя касается",
+      "url": "#",
+      "img": "videoplay.jpg",
+      "views": "286 просмотров",
+      "time": "35:49"
+    },
+    {
+      "name": "Бобрёнок моется",
+      "url": "#",
+      "img": "videoplay1.jpg",
+      "views": "77 000 просмотров",
+      "time": "0.21"
+    },
+    {
+      "name": "SpaceX - Наша Судьба — Стремиться Ввысь !",
+      "url": "https://new.vk.com/video?z=video-51873373_171567799%2Fpl_cat_updates",
+      "img": "videoplay2.jpg",
+      "views": "286 просмотров",
+      "time": "2:49"
+    },
+    {
+      "name": "Илон Маск смешные момнты ч2 (На русском)",
+      "url": "https://new.vk.com/video?z=video-51873373_456239126%2Fpl_cat_updates",
+      "img": "videoplay3.jpg",
+      "views": "2860 просмотров",
+      "time": "7:08"
+    }
+  ],
+  "menu": [
+    {
+      "title": "Чарты",
+      "href": "",
+      "submenu": [
+        {
+          "title": "Топ 100",
+          "href": ""
+        },
+        {
+          "title": "Популярные",
+          "href": ""
+        },
+        {
+          "title": "hr",
+          "href": ""
+        },
+        {
+          "title": "Юмор",
+          "href": ""
+        },
+        {
+          "title": "Рок",
+          "href": ""
+        },
+        {
+          "title": "Шансон",
+          "href": ""
+        },
+        {
+          "title": "Реп и хип-хоп",
+          "href": ""
+        },
+        {
+          "title": "Клубная музыка",
+          "href": ""
+        },
+        {
+          "title": "Саундтрек",
+          "href": ""
+        },
+        {
+          "title": "Пол",
+          "href": ""
+        },
+        {
+          "title": "Классика",
+          "href": ""
+        },
+        {
+          "title": "Этническая музыка",
+          "href": ""
+        },
+        {
+          "title": "Джаз",
+          "href": ""
+        }
+      ]
+    },
+    {
+      "title": "Опции",
+      "href": ""
+    },
+    {
+      "title": "Узнай больше",
+      "href": ""
+    }
+  ],
+  "hothits": [
+    {
+      "name": "Fun",
+      "desc": "We Are Young",
+      "like": "12",
+      "img": "thumb1.jpg"
+    },
+    {
+      "name": "Бьянка",
+      "desc": "Люблю",
+      "like": "12",
+      "img": "thumb2.jpg"
+    },
+    {
+      "name": "Иван Дорн",
+      "desc": "Стыцамен",
+      "like": "12",
+      "img": "thumb3.jpg"
+    },
+    {
+      "advert": "Установи мелодию",
+      "act": "Звони",
+      "main": "909"
+    },
+    {
+      "name": "Fun",
+      "desc": "We Are Young",
+      "like": "12",
+      "img": "thumb4.jpg"
+    }
+  ],
+  "hits": [
+    {
+      "name": "The Killers",
+      "desc": "Somebody Told Me",
+      "like": "12",
+      "img": "hits1.jpg"
+    },
+    {
+      "advert": "Любимая мелодия",
+      "act": "Вместо чужих гудков",
+      "main": ""
+    },
+    {
+      "name": "Playmen feat. Demy",
+      "desc": "Fallin (Record Mix)",
+      "like": "12",
+      "img": "hits2.jpg",
+      "video": "90 Руб"
+    },
+    {
+      "name": "The Killers",
+      "desc": "Somebody Told Me",
+      "like": "12",
+      "img": "hits3.jpg"
+    },
+    {
+      "name": "Максим",
+      "desc": "Я задыхаюсь",
+      "like": "12",
+      "img": "hits4.jpg"
+    },
+    {
+      "name": "Shakira",
+      "desc": "Dare (La La La)",
+      "like": "12",
+      "img": "hits5.jpg"
+    },
+    {
+      "name": "Бьянка",
+      "desc": "Люблю",
+      "like": "12",
+      "img": "hits6.jpg"
+    },
+    {
+      "name": "Бьянка",
+      "desc": "Люблю",
+      "like": "12",
+      "img": "hits7.jpg"
+    },
+    {
+      "name": "Enrique lglesias",
+      "desc": "Fallin",
+      "like": "12",
+      "img": "hits8.jpg"
+    },
+    {
+      "name": "Fun",
+      "desc": "We Are Young",
+      "like": "12",
+      "img": "hits9.jpg"
+    },
+    {
+      "name": "Максим",
+      "desc": "Я задыхаюсь",
+      "like": "12",
+      "img": "hits10.jpg"
+    }
+  ],
+  "list": [
+    {
+      "name": "Fun",
+      "desc": "We Are Young",
+      "like": "12",
+      "img": "list1.jpg"
+    },
+    {
+      "name": "Бьянка",
+      "desc": "Люблю",
+      "like": "12",
+      "img": "list2.jpg"
+    },
+    {
+      "name": "The Killers",
+      "desc": "Somebody Told Me",
+      "like": "12",
+      "img": "list3.jpg"
+    },
+    {
+      "name": "Иван Дорн",
+      "desc": "Стыцамен",
+      "like": "12",
+      "img": "list4.jpg"
+    },
+    {
+      "name": "Shakira",
+      "desc": "Dare (La La La)",
+      "like": "12",
+      "img": "list5.jpg"
+    },
+    {
+      "name": "Fun",
+      "desc": "We Are Young",
+      "like": "12",
+      "img": "list6.jpg"
+    },
+    {
+      "name": "Beyonce",
+      "desc": "On the sun",
+      "like": "12",
+      "img": "list7.jpg"
+    },
+    {
+      "name": "Enrique lglesias",
+      "desc": "One",
+      "like": "12",
+      "img": "list8.jpg"
+    },
+    {
+      "name": "Максим",
+      "desc": "Я задыхаюсь",
+      "like": "12",
+      "img": "list9.jpg"
+    },
+    {
+      "name": "The Killers",
+      "desc": "Somebody Told Me",
+      "like": "12",
+      "img": "list10.jpg"
+    }
+  ]
+}

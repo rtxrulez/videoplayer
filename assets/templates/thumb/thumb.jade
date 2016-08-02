@@ -1,0 +1,11 @@
+mixin thumb(name, desc, img, like, video)
+  
+  .thumb(class=typeof video === "undefined" ? "" : "thumb--video")
+    .thumb__picture
+      if video
+        .thumb__video= video
+      img.thumb__img(src="/img/"+img, alt="")
+    .thumb__desc
+      .thumb__author= name
+      .thumb__name= desc
+      .thumb__like= like 

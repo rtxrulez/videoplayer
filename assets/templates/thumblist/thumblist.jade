@@ -1,0 +1,16 @@
+mixin thumblist(name, desc, img, like, video)
+  .thumblist
+    .thumblist__picture
+      img.thumblist__img(src="/img/"+img, alt="")
+    .thumblist__content
+      .thumblist__name= name
+      .thumblist__desc= desc
+      .thumblist__like= like
+    .thumblist__price
+      span 90 Руб
+    .thumblist__video
+      span
+    .thumblist__package
+      span
+    .thumblist__gift
+      span
