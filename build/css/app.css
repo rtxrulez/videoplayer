@@ -394,7 +394,7 @@ a {
 
 .like_icon {
   display: inline-block;
-  background: url(/img/video_actions.png) no-repeat 0 0;
+  background: url(img/video_actions.png) no-repeat 0 0;
   float: left;
   height: 10px;
   width: 13px;
@@ -445,7 +445,7 @@ a {
   .vk_btn.add_video .vk_btn_icon {
     background-position: 0 -15px; }
   .vk_btn.dropdown .vk_btn_icon {
-    background: url("/img/dd_arrow.png") no-repeat center;
+    background: url("img/dd_arrow.png") no-repeat center;
     margin-left: 10px; }
 
 .vk_btn_icon {
@@ -454,7 +454,7 @@ a {
   display: inline-block;
   float: left;
   position: relative;
-  background: url(/img/video_actions.png) no-repeat 0 -44px;
+  background: url(img/video_actions.png) no-repeat 0 -44px;
   height: 13px;
   margin-right: 7px; }
 
@@ -603,7 +603,7 @@ a {
 .icon_close,
 .icon_minimize,
 .icon_sideblock {
-  background: url(/img/video_icon.png) no-repeat;
+  background: url(img/video_icon.png) no-repeat;
   width: 100%; }
 
 .icon_close {
@@ -647,7 +647,7 @@ a {
 .icon_prev {
   height: 30px;
   width: 100%;
-  background: url(/img/layer_controls.png) no-repeat; }
+  background: url(img/layer_controls.png) no-repeat; }
 
 .icon_next {
   background-position: 60% -55px; }
