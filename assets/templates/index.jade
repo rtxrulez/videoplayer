@@ -18,11 +18,35 @@ html
                     .control_next
                         .icon_next
                     .video_block
-                        .video_container
-                            iframe(
-                            src='https://www.youtube.com/embed/rNpI8XjFepw',
-                            frameborder='0',
-                            allowfullscreen='allowfullscreen')
+                        .video_container.vkvideo
+                            video#vkvideo(
+                                width='480',
+                                height='270',
+                                poster='img/upload_inv_mono.gif')
+                                source(
+                                    src='media/SpaceX.mp4',
+                                    type="video/mp4"
+                                )
+                                source(
+                                    src='media/SpaceX.webm',
+                                    type="video/webm"
+                                )
+                            .vkvideo__controls
+                                #playpause.vkvideo__pause.paused
+                                    span
+                                .vkvideo__next
+                                    span
+                                .vkvideo__progressbar
+                                    .vkvideo__whiteline
+                                    #total.vkvideo__backline
+                                    #buffered.vkvideo__loadline(style="width: 10%")
+                                    #current.vkvideo__progressline
+                                .vkvideo__time
+                                    #currenttime 00:00
+                                    .time /
+                                    #duration 00:00
+                                .vkvideo__valume
+                                    span#dynamic
                         .video_list
                             .video_head_one Мои видеозаписи
                             .playlist
