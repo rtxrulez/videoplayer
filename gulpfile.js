@@ -36,7 +36,11 @@ gulp.task('sass', function () {
 
 // Обработка скриптов
 gulp.task('scripts', function() {
-  gulp.src(['./assets/vendor/jquery/dist/jquery.js', './assets/js/**/*.js'])
+  gulp.src([
+      './assets/vendor/jquery/dist/jquery.js',
+      // './assets/vendor/video.js/video.min.js',
+      './assets/js/**/*.js'
+  ])
     // .pipe(browserify())
     .pipe(concat('app.js'))
     .pipe(gulp.dest('./build/js'))

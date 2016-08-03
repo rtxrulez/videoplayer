@@ -5,6 +5,7 @@
     "font-awesome": "3.0.2",
     "normalize-scss": "normalize.scss#^5.0.3",
     "font-awesome-sass": "^4.6.2",
-    "jquery": "^2.2.4"
+    "jquery": "^2.2.4",
+    "video.js": "^5.11.0"
   }
 }

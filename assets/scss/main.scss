@@ -577,6 +577,7 @@ a {
   background-position: 70% -23px;
 }
 .vkvideo {
+  position: relative;
   display: block;
   width: 100%;
   span {
@@ -698,4 +699,95 @@ a {
       margin-right: 6px;
     }
   }
+}
+
+
+
+
+
+
+
+
+
+
+.video-js {
+  .vjs-load-progress {
+    background-color: hsla(0,0%,100%,.4);
+  }
+  .vjs-progress-holder .vjs-play-progress,
+  .vjs-progress-holder .vjs-load-progress,
+  .vjs-progress-holder .vjs-tooltip-progress-bar,
+  .vjs-progress-holder .vjs-load-progress div {
+    height: 5px;
+  }
+  .vjs-play-progress {
+    &:before {
+      width: 13px;
+      height: 13px;
+      right: -6.5px;
+      top: -4px;
+      border-radius: 50%;
+      background: #fff;
+      opacity: 0;
+      transition: opacity .2s ease;
+    }
+  }
+  .vjs-progress-holder {
+    &:hover,
+    &:focus {
+      .vjs-play-progress {
+        &:before {
+          opacity: 1;
+        }
+      }
+    }
+  }
+
+  .vjs-fullscreen-control {
+    order: 5;
+  }
+  .vjs-time-control {
+    display: none;
+  }
+  .vjs-volume-menu-button {
+    order: 4;
+  }
+  .vjs-menu-button-inline {
+    .vjs-menu {
+      display: block;
+      opacity: 1;
+    }
+  }
+  .vjs-volume-bar {
+    margin: 2.25em 0.45em;
+  }
+  .vjs-control:before {
+    line-height: 2.67;
+  }
+  .vjs-progress-holder {
+    height: 5px;
+  }
+}
+.vjs-has-started .vjs-control-bar {
+  height: 45px;
+  background: transparent;
+  &:before {
+    display: block;
+    content: '';
+    position: absolute;
+    z-index: -1;
+    pointer-events: none;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 110px;
+    -o-transition: opacity 0.25s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    transition: opacity 0.25s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+    will-change: opacity;
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADcCAYAAACxtct4AAAAGXRF…aOVswXrWydLx+WaK57WqWNdVsaH3Lu532//4L7Ix+BBgA0mT6Yrg5bBMAAAAASUVORK5CYII=');
+    background-repeat: repeat-x;
+  }
+}
+.video-js .vjs-control.vjs-playing:before {
+  //background: url('../img/play.svg');
 }
