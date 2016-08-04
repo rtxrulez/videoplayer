@@ -38,7 +38,7 @@ gulp.task('sass', function () {
 gulp.task('scripts', function() {
   gulp.src([
       './assets/vendor/jquery/dist/jquery.js',
-      // './assets/vendor/video.js/video.min.js',
+      './assets/vendor/video.js/dist/video.js',
       './assets/js/**/*.js'
   ])
     // .pipe(browserify())
