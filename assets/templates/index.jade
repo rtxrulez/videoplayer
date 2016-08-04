@@ -18,22 +18,30 @@ html
                     .control_next
                         .icon_next
                     .video_block
-                        .video_container.vkvideo
-                            video#vkvideo.video-js.vjs-default-skin(
+                        .video_container
+                            .vkvideo
+                                video#vkvideo.video-js.vjs-default-skin(
                                 controls='',
                                 preload='none',
-                                poster='img/poster.png',
-                                data-setup='{ ' +
-                                '"aspectRatio":"640:267",' +
-                                '"controls": true,' +
-                                '"autoplay": true,' +
-                                '"controlBar": { "muteToggle": false } }')
-                                source(src='media/SpaceX.mp4', type='video/mp4')
-                                source(src='media/SpaceX.webm', type='video/webm')
+                                poster='img/poster.png')
+                                    source(src='media/SpaceX.mp4', type='video/mp4')
+                                    source(src='media/SpaceX.webm', type='video/webm')
 
-                                p.vjs-no-js
+                                    p.vjs-no-js
                                         | Воспроизведение видео не поддерживается
                                         a(href='media/SpaceX.mp4', target='_blank') Скачать видео
+                                .vkvideo__header
+                                    .vkvideo__like
+                                        img.img-responsive(src="img/like.svg")
+                                    .vkvideo__share
+                                        img.img-responsive(src="img/share.svg")
+                                    .vkvideo__add
+                                        img.img-responsive(src="img/add.svg")
+                            .vkvideo__animated
+                                #vkload
+                                    #vkload_1.vkload
+                                    #vkload_2.vkload
+                                    #vkload_3.vkload
                         .video_list
                             .video_head_one Мои видеозаписи
                             .playlist
