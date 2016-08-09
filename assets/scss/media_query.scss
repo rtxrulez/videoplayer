@@ -51,8 +51,54 @@
             max-height: 350px;
         }
     }
+    .video_list {
+        display: none;
+    }
+    .control_btn,
+    .control_next,
+    .control_prev {
+        display: none;
+    }
+    .channelgroup {
+        display: none;
+    }
+    .player_window {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .btngroup {
+        border-bottom: 0;
+        margin-bottom: 0;
+    }
+    .control_btn:first-child {
+        display: block;
+        position: absolute;
+        top: -32px;
+        right: 15px;
+        width: 26px;
+    }
+}
+@media (max-width: 480px) {
+    .player_content {
+        width: 100%;
+        margin: 0;
+    }
+    .player_window {
+        padding: 5px;
+    }
+
 }
 @media (max-width: 320px) {
+    .video_block {
+        max-height: 180px;
+    }
+    .video-js {
+        &,
+        .vjs-tech {
+            max-height: 180px;
+        }
+    }
     body {
         overflow: auto;
     }
